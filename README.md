@@ -1,6 +1,6 @@
 # Student Performance Analysis Project
 
-This project performs a full statistical analysis on student performance using the **UCI Student Performance Dataset**. It walks through all essential statistical phases — from descriptive summaries to hypothesis testing and correlation analysis.
+This project performs a full statistical analysis on student performance using the client Student Performance Dataset. It walks through all essential statistical phases — from descriptive summaries to hypothesis testing and correlation analysis.
 
 ---
 
