@@ -15,7 +15,7 @@ This project performs a full statistical analysis on student performance using t
 
 ---
 
-## 📦 Dataset Info
+## Dataset Info
 
 - **Source**: Client work (can be shared)
 - **File**: `student-mat.csv`
@@ -27,7 +27,7 @@ This project performs a full statistical analysis on student performance using t
 
 ---
 
-## 🧪 Phases Covered
+## Phases Covered
 
 | Phase | Focus |
 |-------|-----------------------------|
